@@ -36,4 +36,4 @@ npm install
 * Start:
 ```sh
 node index.js
-```
+```[![Run on Repl.it](https://repl.it/badge/github/Androz2091/giveaways-bot)](https://repl.it/github/Androz2091/giveaways-bot)
